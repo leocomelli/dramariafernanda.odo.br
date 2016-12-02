@@ -1,0 +1,30 @@
+baseurl = "http://dramariafernanda.odo.br"
+title = "Dra Maria Fernanda Albaricci - Cirurgião Dentista"
+languageCode = "pt-BR"
+theme="hugo-identity-theme"
+
+[params]
+  name = "Dra Maria Fernanda Albaricci"
+  position = "Periodontia - Clinica Geral"
+  email = "fernanda.albaricci@gmail.com"
+  avatar = "fernanda256.png"
+
+  #[[params.social]]
+  #  title = "Telefone"
+  #  icon = "fa-phone"
+  #  link = "{{tel:+551633847886"
+
+  [[params.social]]
+    title = "E-mail"
+    icon = "fa-envelope-o"
+    link = "mailto:fernanda.albaricci@gmail.com"
+
+  [[params.social]]
+    title = "Facebook"
+    icon = "fa-facebook"
+    link = "https://www.facebook.com/dramariafernandaalbaricci"
+
+  [[params.credits]]
+    title = "."
+    text = "."
+    link = "."
